@@ -34,7 +34,7 @@
         </a>
         <br>
         <!--ETTM Motto-->
-        <img src="https://img.shields.io/badge/Over%20Every%20Possessor%20of%20Knowledge%20There%20is%20Some(One)%20Else%20(More)%20Knowledgeable-8A2BE2" target="_blank">
+        <img src='https://img.shields.io/badge/"Over%20Every%20Possessor%20of%20Knowledge%20There%20is%20Some%20(One)%20Else%20(More)%20Knowledgeable"-8A2BE2' target="_blank">
         <br>
         <!--Edition-->
         <small>Started: January, 2025</small>
